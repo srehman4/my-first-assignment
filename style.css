@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Playfair+Display&family=Source+Sans+Pro:wght@400&display=swap");
 
 body {
-  color:#eae2b7.;
+  background-color:#eae2b7 ;
   font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
   padding: 40px;
 }
@@ -18,9 +18,10 @@ article {
   padding: 50px 0;
 }
 nav{
-  color:red;
   text-align: center;
   letter-spacing:normal;
+  color: #ff0000;
+  
 
   
 }
@@ -41,13 +42,15 @@ div {
 }
 
 img {margin: auto;display: block;
-  width: 50%;
-  max-width: 50%;
+  width: 20%;
+  max-width: 20%;
   height: auto;
 }
 
 hr {
   border: 1px solid black;
+  width:30%; 
+  
 }
 
 /* Add your solution below */
@@ -55,7 +58,5 @@ hr {
 .image-circle {;border-radius:50% ;border:2px #003049"
 }
 footer {text-align:center;
-  background-color"#d62828" ; 
-        hover:#f77f00;
+  
        }
-
